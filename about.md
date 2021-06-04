@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
----
-layout: page
-title: About
-permalink: /about/
----
 
 Hello visitor,
 
